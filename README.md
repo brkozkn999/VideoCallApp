@@ -28,7 +28,7 @@ This application allows users to chat in real time face to face.
 
 ![Spring Boot Video Call application ss2](./ss2.png)
 
-![Spring Boot Video Call application ss3](./ss3.png
+![Spring Boot Video Call application ss3](./ss3.png)
 
 ![Spring Boot Video Call application ss3](./ss4.png)
 
